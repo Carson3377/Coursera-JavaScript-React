@@ -1,4 +1,6 @@
-# Programming-w-JavaScript
-Ta Da! This is an achievement for completing the course **"Programming with JavaScript"**!
+# Little Lemon Receipt Maker.js
+ 
+Welcome to Programming /w/ JavaScript -- Module 5 -- Final Project
 
-![Programming with JavaScript Cert](https://user-images.githubusercontent.com/105184379/205933404-7b400502-e01b-4217-9de7-1902693c2789.png)
+
+Here is the solution of Little Lemon Receipt Maker Programming assignment!

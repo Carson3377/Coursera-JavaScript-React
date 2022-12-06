@@ -16,7 +16,6 @@ const dishData = [
         price: 6.45
     },
 ]
-
 const tax = 1.20;
 
 function getPrices(taxBoolean) {

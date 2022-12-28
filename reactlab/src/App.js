@@ -11,12 +11,12 @@ function App() {
     setResult((result) => result + Number(inputRef.current.value)); 
   }; 
  
-  function minus(e) { 
+  function minus(e) {
   	e.preventDefault();
     setResult((result) => result - Number(inputRef.current.value));
   };
  
-  function times(e) { 
+  function times(e) {
     e.preventDefault();
     setResult((result) => result * Number(inputRef.current.value));  
   }; 
